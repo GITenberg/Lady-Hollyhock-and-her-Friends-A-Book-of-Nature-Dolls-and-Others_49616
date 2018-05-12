@@ -1,15 +1,21 @@
 _repo: Lady-Hollyhock-and-her-Friends-A-Book-of-Nature-Dolls-and-Others_49616
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Hunt, Mary Isabel
     gutenberg_agent_id: '45442'
     url: http://www.gutenberg.org/2009/agents/45442
+covers:
+- cover_type: archival
+  image_path: 49616-h/images/cover.jpg
 creator:
   author:
     agent_name: Walker, Margaret Coulson
     gutenberg_agent_id: '45441'
     url: http://www.gutenberg.org/2009/agents/45441
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49616#Lady-Hollyhock-and-her-Friends-A-Book-of-Nature-Dolls-and-Others
 gutenberg_issued: '2015-08-05'
 gutenberg_type: Text
 identifiers:
